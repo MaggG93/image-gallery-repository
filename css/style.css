@@ -1,0 +1,35 @@
+body {
+  background-color: #ded035;
+}
+button {
+  background-color: #ded035;
+  font-family: cursive;
+  font-size: large;
+  color: #777ac7;
+  cursor: pointer;
+}
+
+#imagen {
+  width: 20%;
+  height: 20%;
+  display: block;
+  margin: 0 auto;
+}
+
+#boton_anterior {
+  display: flex;
+  margin: 0 auto;
+}
+
+#boton_siguiente {
+  display: flex;
+  margin: 0 auto;
+}
+
+#descripcion {
+  font-family: cursive;
+  font-size: x-large;
+  color: #777ac7;
+  text-align: center;
+  margin: 10px auto;
+}
